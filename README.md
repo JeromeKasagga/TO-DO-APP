@@ -27,4 +27,4 @@ After following tutorials, I wanted to create something **uniquely mine**—with
 ## 🚀 Getting Started
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/TaskMaster.git
+   git clone https://github.com/JeromeKasagga/TO-DO-APP
