@@ -1,0 +1,10 @@
+body{
+    background-color: azure;
+}
+
+.input-form{
+    background-color: aquamarine;
+    max-width: 360px;
+    display: flex;
+    gap: 20px;
+}
